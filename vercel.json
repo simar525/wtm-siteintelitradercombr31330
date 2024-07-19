@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://master.dq16aod65huij.amplifyapp.com/$1"
+ }
+  ]
+}
